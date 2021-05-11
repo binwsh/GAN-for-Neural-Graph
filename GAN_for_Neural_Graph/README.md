@@ -23,7 +23,7 @@ AC_mode0.ipynb
 ```
 
 ## Note
-There are four modes (meaning different inputs) in one type of model:
+There are four modes (meaning different inputs) in the models:
 1. Mode0: label + age + gender
 2. Mode1: label + age
 3. Mode2: label + gender

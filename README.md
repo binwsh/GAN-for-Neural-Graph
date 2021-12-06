@@ -20,6 +20,8 @@ converter.m
 ```
 
 ####2. ADHD_data
+Download ADHD data from 
+https://drive.google.com/drive/folders/1demiE9I9BDCSZFmUVbpjeasEU_sCgCCk?usp=sharing
 Preprocessing the data, run
 ```
 Preprocessing.ipynb
